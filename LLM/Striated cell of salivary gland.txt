@@ -1,0 +1,60 @@
+Striated cell of salivary gland
+
+The striated cells of the salivary gland, also known as striated duct cells, play a central role in the secretion and modification of saliva. These cells exhibit distinctive longitudinal striations along their basal membrane, which give them their name (Roussa, 2011). Highly specialized and unique to the salivary glands, striated cells are considered an integral part of the salivary duct system, specifically in the striated ducts that connect the intercalated duct with the excretory duct in the gland.
+
+Why are the striated cells vital? The saliva created within the salivary glands is initially isotonic, which implies it contains the same concentration of vital electrolytes as the plasma in the blood. Yet, when it is released into the mouth, it is often hypotonic. The secretion undergoes a significant transformation within the duct system and the striated cells play a pivotal part in this process (Tandler et al., 2001).The basal infoldings in striated cells, laden with mitochondria, supply an active transport mechanism that reabsorbs sodium ions and secretes potassium ions into the saliva (Tandler et al., 2001; Roussa, 2011; Pedersen et al., 2018). This process is crucial for generating a hypotonic saliva upon release, which aids in digestion and oral hygiene.
+
+Additionally, the striated duct cells of the salivary glands serve other important physiological functions as well. These cells contribute significantly to the bicarbonate content of saliva (Roussa, 2011; Ohana, 2013; Pedersen et al., 2018), which plays a critical role in neutralizing the acids in the oral cavity, and thereby protecting the dental enamel from being eroded (Racz et al., 2018). This function further underlines their role in maintaining oral health. Thus, the striated cells of the salivary gland, with their distinctive structure and secretory functions, play a considerable role in the physiological action of saliva within the oral cavity.
+
+Pubs: 
+
+Channels and transporters in salivary glands
+		pubmedisearch (2), scholar (1), citeseek 7 statement
+
+Secretion by striated ducts of mammalian major salivary glands: Review from an ultrastructural, functional, and evolutionary perspective
+		Citeseek
+
+Transepithelial ion transport across duct cells of the salivary gland
+
+Salivary secretion in health and disease
+
+Defense Mechanisms Against Acid Exposure by Dental Enamel Formation, Saliva and Pancreatic Juice Production 
+		Citeseek 7 statemens (no evidence)
+
+
+
+location: striated duct
+cellular components (characteristics of the cell type) (): longitudinal striations,  basal infoldings in striated cells, laden with mitochondria
+biological processes: 	active transport mechanism that reabsorbs sodium ions and secretes potassium ions
+						contribute significantly to the bicarbonate content of saliva 
+
+
+{
+  "cell_type_name": "Striated cell of salivary gland",
+  "location": "Striated ducts, connecting the intercalated duct with the excretory duct within the salivary gland",
+  "cellular_component": "Distinctive longitudinal striations along the basal membrane, basal infoldings laden with mitochondria",
+  "biological_process": "Modification of saliva from isotonic to hypotonic through active reabsorption of sodium ions and secretion of potassium ions, contributing to bicarbonate content for neutralizing oral acids"
+}
+
+Striated duct cells
+Salivary gland modification
+Basal membrane striations
+Bicarbonate secretion
+
+8
+{
+"cell_type_name": "Striated cell of salivary gland",
+"location": "Salivary gland, specifically in the striated ducts", 
+"cellular_component": "Basal membrane, mitochondria",
+"biological_process": "Saliva secretion and modification, maintaining oral health"
+}
+
+70
+{
+"cell_type_name": "Striated cell of salivary gland",
+"location": "Salivary glands, specifically in the striated ducts that connect the intercalated duct with the excretory duct",
+"cellular_component": "Basal membrane with longitudinal striations, basal infoldings laden with mitochondria",
+"biological_process": "Saliva secretion and modification, including sodium and potassium ion transport, bicarbonate secretion, and acid neutralization to maintain oral health and facilitate digestion",
+"search": ["Striated duct cells", "Salivary gland", "Saliva secretion", "Ion transport"]
+}
+
