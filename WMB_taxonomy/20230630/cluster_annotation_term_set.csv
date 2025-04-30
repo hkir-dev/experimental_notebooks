@@ -1,0 +1,7 @@
+label,description,name,order
+CCN20230504_NEUR,Clusters are assigned based on the average expression of the most dominent neurotransmitter transporters. This definition is not part of the taxonomy hierarchy. ,neurotransmitter,0
+CCN20230504_DIVI,"A very broad definition of cell types. Clusters with continuous transition between each other are grouped in the same division. Clusters within the same class mostly belong to the same division, except for some highly distinct clusters that may belong to a specific ""CBX-MOB-other neuronal"" division.",division,1
+CCN20230504_CLAS,The top level of cell type definition in the mouse whole brain taxonomy. It is primarily determined by broad brain region and neurotransmitter type. All cells within a subclass belong to the same class. Class provides a broader categorization of cell types.,class,2
+CCN20230504_SUBC,The coarse level of cell type definition in the mouse whole brain taxonomy. All cells within a supertype belong to the same subclass. Subclass groups together related supertypes.,subclass,3
+CCN20230504_SUPT,The second finest level of cell type definition in the mouse whole brain taxonomy. All cells within a cluster belong to the same supertype. Supertype groups together similar clusters.,supertype,4
+CCN20230504_CLUS,The finest level of cell type definition in the mouse whole brain taxonomy. Cells within a cluster share similar characteristics and belong to the same supertype.,cluster,5
